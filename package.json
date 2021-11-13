@@ -1,0 +1,11 @@
+{
+  "name": "counter-vanilla",
+  "version": "1.0.0",
+  "description": "Counter With Redux",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Rizwan",
+  "license": "ISC"
+}
